@@ -19,6 +19,6 @@ six==1.11.0
 SQLAlchemy==1.1.11
 svgwrite==1.1.11
 Tree==0.2.3
-urllib3==1.18.1
+urllib3==1.26.5
 urlparse2==1.1.1
 Werkzeug==0.12.2
